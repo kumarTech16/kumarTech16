@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring Devops & Automation Concepts
 - 🌱 I’m currently learning Linux & Cloud Platform Tools
 - 💞️ I’m looking to collaborate on Automation & Devops Technologies.
-- 📫 Reach me on kumar_abhishek16@yahoo.com
+- 📫 Reach me at kumar_abhishek16@yahoo.com
 
 <!---
 kumarTech16/kumarTech16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
